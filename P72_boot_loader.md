@@ -1,14 +1,12 @@
 # ThinkPad P72 Boot Loader issue.
 ---
+## Disclaimer:
+
+### I am not responsible for any data loss or corruption. The following information is shared solely for informational purposes and reflects my personal experience with my laptop. You are encouraged to use your own judgment or seek professional assistance if needed. Please note that the information provided is not a substitute for expert advice, and any actions taken are at your own risk.
+---
+
 Typically, when purchasing a ThinkPad P72, it comes with a 500GB NVMe drive. Later on, you may add a 2.5-inch SSD and eventually another 1TB NVMe drive to increase storage capacity. However, if you remove the 1TB NVMe drive, the boot order may become misconfigured, causing boot issues, as the laptop may fail to start without the removed drive.
 ---
-## **NOTE**
-
-# Disclaimer:
-
-## I am not responsible for any data loss or corruption. The following information is shared solely for informational purposes and reflects my personal experience with my laptop. You are encouraged to use your own judgment or seek professional assistance if needed. Please note that the information provided is not a substitute for expert advice, and any actions taken are at your own risk.
-
-
 ### **How to resolve/fix such issues.**
 
 - To check and correct the boot loader configuration on your **ThinkPad P72 laptop**, you can follow these steps.
