@@ -1,2 +1,2 @@
-# aliedtech_windows
+# alitech_windows
 Windows Related Quick Information
